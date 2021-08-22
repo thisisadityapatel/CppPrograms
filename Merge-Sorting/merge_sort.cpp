@@ -150,11 +150,6 @@ void main()
    }
 
 
-
-
-
-
-
 getch();
 }
 
