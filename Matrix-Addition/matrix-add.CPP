@@ -47,6 +47,7 @@ void main()
 
    //Showing the user the first matrix
    cout<<"\n First Matrix";
+   cout<<"\n";
    for(int i=0;i<3;i++)
    {
    	for(int j=0;j<3;j++)
@@ -58,6 +59,7 @@ void main()
 
    //Showing the user the second matrix
    cout<<"\n Second Matrix";
+   cout<<"\n";
    for(int i=0;i<3;i++)
    {
    	for(int j=0;j<3;j++)
@@ -81,22 +83,6 @@ void main()
       }
     	cout<<"\n";
    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 getch();
