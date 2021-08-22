@@ -5,7 +5,6 @@
 
 void main()
 {
-
    int n, arr[30];
 
    //prompt the user to enter the desired array size
